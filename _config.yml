@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en"
-title                    : "Maximilian H. Bremer"
+title                    : "Maximilian Bremer"
 title_separator          : "-"
-name                     : "Max Bremer"
-description              : "Max Bremer's personal website"
+name                     : "Maximilian Bremer"
+description              : "Maximilian Bremer's personal website"
 url                      : "https://bremerm31.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Max Bremer"
+  name             : "Maximilian Bremer"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Task-based parallelism, High performance computing, Discontinuous Galerkin finite elements, Shallow water equations, Hurricane storm surge"
   location         : "Austin, Texas"

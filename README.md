@@ -1,8 +1,8 @@
-# John Hawkins's website
+# Max Bremer's website
 
-This is intended to be my personal webpage, especially as it relates to my academic work. 
-You can expect to find links to my profile in the relevant academic databases (Google Scholar, ResearchGate, ORCID, GitHub, Stackoverflow, etc.) as well as a brief overview of my research, teaching, and publication history. 
-Please feel free to [browse the website](https://hawkjo.github.io/)!
+This is intended to be my personal webpage, especially as it relates to my academic work.
+You can expect to find links to my profile in the relevant academic databases (Google Scholar, ORCID, GitHub, etc.) as well as a brief overview of my research and publication history.
+Please feel free to [browse the website](https://bremerm31.github.io/)!
 
 ---
 

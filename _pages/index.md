@@ -6,37 +6,18 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/IMG_1604.jpg" width="340px" alt="John Hawkins" align="right" />
+<img src="/assets/images/avatar.jpg" width="340px" alt="Maximilian Bremer" align="right" />
 
 # About
 
-I just completed my Ph.D. in computational and applied mathematics at the [Institute for
-Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/) in the The University
-of Texas at Austin, where I am supervised by [William H. Press](http://www.numerical.recipes/whp) and [Ilya J.
-Finkelstein](http://www.finkelsteinlab.org). I am looking for postdoctoral opportunities in computational
-molecular biology at the moment. 
+I am a Ph.D. candidate at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/) in the The University of Texas at Austin, where I am supervised by [Clint Dawson](http://chg.ices.utexas.edu/). I am a Department of Energy [Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) as well as a [Donald D. Harrington Fellow](https://harrington.utexas.edu/).
 
-I was awarded the Computational Science, Engineering, and Mathematics Fellowship for my studies at
-ICES, where I obtained my Masters and Ph.D. degrees. I previously earned a B.S. in Mathematics, a
-B.S.E in Mechanical Engineering, and a B.A. in Humanities at Walla Walla University in Walla Walla,
-Washington.
+I previously completed [Part III](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at University of Cambridge with an emphasis on Partial Differential equations. Before that, I earned a B.Sc. in Aerospace Engineering and a B.Sc. in Applied Mathematics from the University of Texas at Austin.
 
-My research is centered around developing high-throughput methods and results in molecular and
-integrative biology.  The gold rush in molecular and integrative biology for exponentially improved
-insights and methods is in full swing, and I love being a part of it.  My specialty is using
-computational and mathematical techniques to extract insight from large data sets and design better
-experiments, and I have also done a small amount of bench work. My current research is in
-developing novel techniques for characterizing the CRISPR family of proteins, with the long-term
-goal of helping to make gene-editing techniques safe for clinical use. Along the way I also derived
-and designed state of the art indel-correcting DNA barcodes and performed one of the largest-scale
-phylogenetic and positive selection analyses of bats. For these projects I have used various
-mathematical and computational methods, including mathematical model development, Fourier methods,
-non-linear optimization, finite field linear algebra, machine learning, visualization, phylogenetic
-analysis, positive selection analysis, and algorithmic development in high-dimensional spaces.
-Learn more details about my research [here](/research/).
+My work lies at the intersection of computer science and numerical analysis. The advent of exascale computing represents a paradigm shift for scientific computing. Power-constrained design choices and the end of Dennard scaling have led to exponential growth in on-node concurrency.
+The difficulty of productively programming in light of this deluge of concurrency has led to the emergence of numerous task-based programming models (e.g. HPX, Legion, charm++, etc.). I am looking at the expressivity of these new programming models to accelerate the simulation of hurricane storm surge. Not only am I looking to leverage features provided by these models, but I am looking to go a step further. I am interested in the design of novel irregular--but crucially scalable--algorithms inspired by the flexibility of tasking frameworks. In particular, I am looking at dynamic load balancing and adaptive local timestepping methods. Learn more details about my research [here](/research/).
 
-When I'm not doing research, my favorite thing in the world is to go see the world. I love
-travelling, learning languages, and meeting people. Closer to home, nothing beats weekend BBQ's
-with friends in the back yard.  I also love listening to podcasts and audiobooks while going for
-walks. Shout out to 99 Percent Invisible, More Perfect by RadioLab, and the Harry Potter books as
-read by Stephen Fry.
+
+Outside of work, I enjoy cooking (eating) and weightlifting (dealing with the ramification of eating).
+I enjoy living Austin, taking advantage of the restaurant and music scences. I am also an avid reader
+two of the most recent books I've read can be found [here](https://www.goodreads.com/book/show/25082429-garments-against-women) and [here](https://www.goodreads.com/book/show/355320.The_Inner_Chapters).
