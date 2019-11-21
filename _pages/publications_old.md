@@ -1,10 +1,3 @@
----
-title: "Publications"
-layout: archive
-sitemap: true
-permalink: /publications/
-author_profile: true
----
 
 Most of my publications should be indexed in my [Google Scholar profile](https://scholar.google.com/citations?user=jBffF0MAAAAJ&hl=en), and I will try to keep the most recent version of my publications here as well. 
 

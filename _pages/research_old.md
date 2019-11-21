@@ -1,13 +1,3 @@
----
-title: "Research"
-layout: single
-sitemap: true
-permalink: /research/
-author_profile: true
-toc: true
-toc_label: "Research"
-toc_icon: "gear"
----
 
 I am a computational molecular and integrative biologist and mathematical scientist. Currently, my
 research is in three areas:
