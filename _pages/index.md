@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/avatar.jpg" width="340px" alt="Maximilian Bremer" align="right" />
+<img src="/assets/images/bremer_index.jpg" width="720px" alt="Maximilian Bremer" align="middle" />
 
 # About
 
