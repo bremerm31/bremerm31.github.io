@@ -10,7 +10,7 @@ author_profile: true
 
 # About
 
-I am a Ph.D. candidate at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/) in the The University of Texas at Austin, where I am supervised by [Clint Dawson](http://chg.ices.utexas.edu/). I am a Department of Energy [Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) as well as a [Donald D. Harrington Fellow](https://harrington.utexas.edu/).
+I am a Ph.D. candidate at the [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/) in the The University of Texas at Austin, where I am supervised by [Clint Dawson](http://chg.ices.utexas.edu/). I am a Department of Energy [Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) as well as a [Donald D. Harrington Fellow](https://harrington.utexas.edu/).
 
 I previously completed [Part III](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at University of Cambridge with an emphasis on Partial Differential equations. Before that, I earned a B.Sc. in Aerospace Engineering and a B.Sc. in Applied Mathematics from the University of Texas at Austin.
 
