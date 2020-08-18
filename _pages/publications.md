@@ -6,4 +6,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-Under construction.
+For my most updated list of publications, please check my Google Scholar [profile](https://scholar.google.com/citations?user=f0pNW2wAAAAJ).
